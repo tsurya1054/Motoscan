@@ -1,0 +1,6 @@
+{
+  "name": "MotoScan ADV",
+  "description": "High-fidelity OBD2 dashboard and diagnostic simulation tool featuring real-time engine telemetry, custom PID monitoring, DTC fault code reader, live performance graphing, and data logging inspired by the custom ADV motorcycle dashboard layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
